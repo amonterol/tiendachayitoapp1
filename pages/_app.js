@@ -1,3 +1,4 @@
+import "../styles/globlas.css";
 import Layout from "../components/Layout";
 
 function MyApp({ Component, pageProps }) {
